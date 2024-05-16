@@ -19,3 +19,5 @@ bun dev
 ## To continue
 
 Testing one or more functions of the quiz either using `vitest` or `jest` (to be determined)
+
+> I have been able to run tests on a function of my code using `jest`. The setup for the environment seemed to be quite delicate however (probably because I am testing Typescript code?) and I wonder if I can get `vitest` to run the same tests. tbd.
